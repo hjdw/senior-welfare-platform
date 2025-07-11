@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import styled from 'styled-components';
-import { FaSearch, FaHeart, FaBalanceScale, FaCog, FaBars, FaTimes } from 'react-icons/fa';
+import { FaHeart, FaBalanceScale, FaCog, FaBars, FaTimes } from 'react-icons/fa';
 import { useFavorites } from '../../contexts/FavoriteContext';
 import { useAccessibility } from '../../contexts/AccessibilityContext';
 
