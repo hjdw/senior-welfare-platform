@@ -1,0 +1,8 @@
+{
+    "short_name": "복지시설",
+    "name": "고령층 복지시설 정보 플랫폼",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#2E7D32",
+    "background_color": "#ffffff"
+  }
